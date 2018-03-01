@@ -1,7 +1,7 @@
-# [INC] Digital Systems Design
+# Access terminal (INC project)
 Bachelor study at FIT VUT Brno  
-2nd semester (summer 2017)  
-**Project - Access terminal**
+2nd semester - summer 2017  
+Subject: **Digital Systems Design (INC)**
 
 ## Score
-18/20
+* Overall: **18/20**
